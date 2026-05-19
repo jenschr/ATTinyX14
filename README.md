@@ -1,5 +1,5 @@
 # ATTinyX14
-Tiny breadboard compatible development board that can contain either an ATTiny414, ATTiny814 or ATTiny1614 - depending on your need for Flash memory.
+Tiny breadboard compatible development board that can contain either an ATTiny414, ATTiny814 or ATTiny1614 - depending on your need for Flash memory. This repo contains the complete Kicad design files under an MIT lisence as well as documentation, pinout & images of the verified design. I'm a consultant based in Oslo/Norway, so [get in touch](https://maketronics.no/about/) if you need custom hardware based on ATTiny or [other MCUs](https://flashgamer.com/blog/comments/microcontroller-reference-boards).
 
 ![ATTinyX14 Pinout](./img/x14_Pinout.png)
 
