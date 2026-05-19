@@ -6,7 +6,7 @@ Tiny breadboard compatible development board that can contain either an ATTiny41
 ![ATTinyX14 Pinout](./img/x14_Pinout.png)
 
 ## Features
-This nifty little microcontroller paired with the CH340 serial chip, makes for a very compact development board. Due to it's tiny size, you have 3 rows on each side of the breadboard to connect jumper wires to. When used with Spence Konde's brilliant [ATTinyCore](https://github.com/SpenceKonde/ATTinyCore), this is very smooth to use for prototyping.
+This nifty little microcontroller paired with the CH340 serial chip, makes for a very compact development board. Due to it's tiny size, you have 3 rows on each side of the breadboard to connect jumper wires to. When used with Spence Konde's brilliant [megaTinyCore](https://github.com/SpenceKonde/megaTinyCore), this is very smooth to use for prototyping.
 
 ![ATTinyX14 compactness](./img/x14_w_programmer.jpg)
 
