@@ -1,8 +1,6 @@
 # ATTinyX14
 Tiny breadboard compatible development board that can contain either an ATTiny414, ATTiny814 or ATTiny1614 - depending on your need for Flash memory.
 
-## Pinout
-
 ![ATTinyX14 Pinout](./img/x14_Pinout.png)
 
 ## Features
@@ -10,7 +8,7 @@ This nifty little microcontroller paired with the CH340 serial chip, makes for a
 
 ![ATTinyX14 compactness](./img/x14_w_programmer.jpg)
 
-The board has a builtin LED on (PA5) and a button (PA4) for testing. The Serial chip has a LED on the TX line, so you can visually inspect when programming is done and finished.
+The board has a builtin LED on (PA5) and a button (PA4) for testing. The Serial chip has a LED on the TX line, so you can visually inspect when programming is done and finished. My primary reason for looking at this chip series was the 8-bit DAC output on PA6. Very few MCU's in this price range has a builtin DAC, so it is very handy for many types projects such as controlling devices based on voltage. One such example is controlling 0-10V motors/fans by just adding a small OpAmp circuit.
 
 Some things to note:
 
